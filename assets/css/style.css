@@ -215,10 +215,14 @@ label {
 /* ****** END Contact Page ****** */
 
 /* ****** MEDIA QUERRY ******* */
+@media screen and (max-width: 640px) {
+
+}
+
 @media screen and (max-width: 980px) {
     .content {
-        width: 700px;
-        margin: 40px ;
+        width: 650px;
+        margin: 30px 40px 100px 40px;
     }
 
     .logo {
@@ -235,7 +239,7 @@ label {
     }
 
     #title2 {
-        right: 78px;
+        right: 28px;
         top: 260px;
     }
 
@@ -245,7 +249,7 @@ label {
     }
 
     #title4 {
-        right: 78px;
+        right: 28px;
         top: 485px;
     }
 
@@ -255,17 +259,17 @@ label {
     }
 
     #title6 {
-        right: 78px;
+        right: 28px;
         bottom: 50px;
     }
 
     textarea {
-        width: 680px;
+        width: 630px;
         height: 200px;
     }
 
     input {
-        width: 680px;
+        width: 630px;
         height: 25px;
     }
 
